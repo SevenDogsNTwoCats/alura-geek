@@ -6,7 +6,7 @@ const Home = () => {
   return <div className="home-container">
     <div className="banner-container">
 
-      <img src="../../public/img/banner-image.png" alt="" className='img-banner' />
+      <img src="./img/banner-image.png" alt="" className='img-banner' />
       <div className="banner-data">
         <h1 className="banner-title">
           Febrero Promocional
